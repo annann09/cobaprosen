@@ -1,0 +1,11 @@
+#Mengatur kredensial
+git config --global user.name <USERNAME>
+git config --global user.email <EMAIL>
+
+#Cek kredensial yang diatur
+Git config --global user.name
+Git config –-global user.email
+
+#Membuat working directory
+mkdir <NAMA_APLIKASI>
+cd < NAMA_APLIKASI >
